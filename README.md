@@ -1,4 +1,4 @@
-### Frontend Engineer Take-Home Task: Building Uniswap-like Feature with React and Next.js
+# Frontend Engineer Take-Home Task: Building Uniswap-like Feature with React and Next.js
 
 Objective:
 The goal of this take-home task is to assess your skills in building a front-end interface using React and Next.js, particularly focusing on implementing functionality similar to Uniswap, a decentralized exchange for cryptocurrencies. You will be expected to create a simplified version of the swapping feature found in Uniswap.
@@ -6,12 +6,13 @@ The goal of this take-home task is to assess your skills in building a front-end
 Instructions:
 You are required to build a web application that allows users to swap between two cryptocurrencies. The application should be built using React and Next.js for server-side rendering. While the functionality will be simplified compared to Uniswap, it should mimic the core swapping feature.
 
-Requirements:
-1. **Homepage:**
-   - A landing page with a brief introduction to the swapping functionality.
-   - Navigation to the swapping page.
+UI Reference:
+Uniswap: https://app.uniswap.org/
+Coin Price API: https://apiguide.coingecko.com/getting-started/introduction
 
-2. **Swapping Page:**
+Requirements:
+
+1. **Swapping Page:**
    - Display two input fields for selecting the cryptocurrencies to swap.
    - Input fields should include dropdowns or auto-suggest functionality for selecting the cryptocurrencies.
    - Allow users to input the amount they want to swap.
@@ -19,16 +20,16 @@ Requirements:
    - Implement a swap button to execute the transaction.
    - Show appropriate error/success messages during the swapping process.
 
-3. **API Integration:**
+2. **API Integration:**
    - Utilize cryptocurrency price data from a public API (e.g., CoinGecko, CoinMarketCap) to fetch real-time exchange rates.
    - Implement the necessary API calls to fetch cryptocurrency data and exchange rates.
 
-4. **User Experience:**
+3. **User Experience:**
    - Ensure a smooth and responsive user interface.
    - Implement loading indicators during API requests.
    - Validate user inputs and provide clear error messages if inputs are invalid.
 
-5. **Optional Enhancements (Bonus):**
+4. **Optional Enhancements (Bonus):**
    - Implement transaction history to show the previous swaps.
    - Add support for more cryptocurrencies.
    - Implement a simple user authentication system.
