@@ -1,4 +1,4 @@
-Title: Frontend Engineer Take-Home Task: Building Uniswap-like Feature with React and Next.js
+### Frontend Engineer Take-Home Task: Building Uniswap-like Feature with React and Next.js
 
 Objective:
 The goal of this take-home task is to assess your skills in building a front-end interface using React and Next.js, particularly focusing on implementing functionality similar to Uniswap, a decentralized exchange for cryptocurrencies. You will be expected to create a simplified version of the swapping feature found in Uniswap.
