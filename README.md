@@ -35,6 +35,10 @@ Requirements:
    - Implement a simple user authentication system.
    - Add visual enhancements such as animations or transitions.
 
+5. **Hosting:**
+   - Make sure to host your output in any vendors like Vercel, Netlify etc..
+   - Share deployed URL in the ReadMe file of your output repository.
+
 Guidelines:
 - You are free to use any libraries or frameworks that you find appropriate.
 - Design and styling are important but not the primary focus. You can use existing UI libraries like Material-UI or Tailwind CSS for quicker styling.
