@@ -7,7 +7,6 @@ import Explore from "./components/Explore";
 import NFTs from "./components/NFTs";
 import Pool from "./components/Pool";
 import "./App.css";
-import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -21,7 +20,6 @@ const App = () => {
           <Route path="/nfts" Component={NFTs} />
           <Route path="/pool" Component={Pool} />
         </Routes>
-        <Footer />
       </div>
     </Router>
   );

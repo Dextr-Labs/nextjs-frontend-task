@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./style/Home.css";
 import Home_Components from "./Home/Home_Components";
 import Bottom from "./Home/Bottom";
+import Footer from "./Footer";
 
 const cryptoImg =
   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4nccEDQhzhXq3Oz9SsvlWoQyvpg31K_wcoA&usqp=CAU";
@@ -30,7 +31,6 @@ const SecondLayer = () => {
 
   return (
     <div className="second-layer">
-      {/* Dynamically position images */}
       {positions.map((position, index) => (
         <img
           key={index}
@@ -55,9 +55,10 @@ const ThirdLayer = () => {
 const Home = () => {
   return (
     <div className="app">
-      <SecondLayer/>
+      <SecondLayer />
       <ThirdLayer />
       <Bottom />
+      <Footer />
     </div>
   );
 };

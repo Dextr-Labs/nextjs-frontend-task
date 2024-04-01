@@ -17,7 +17,7 @@ export default function Bottom() {
                 className="cGRhPo"
                 style={{
                   backgroundColor: "rgba(0, 102, 255, 0.04)",
-                  width: "100%",
+                  // width: "100%",
                   borderRadius: "32px",
                 }}
               >
@@ -25,7 +25,7 @@ export default function Bottom() {
                   className="kKkgZC"
                   style={{
                     display: "flex",
-                    width: "100%",
+                    // width: "100%",
                     flexDirection: "column",
                     alignItems: "flex-start",
                     height: "unset",
@@ -71,7 +71,7 @@ export default function Bottom() {
                     gap: "6px",
                     alignItems: "center",
                     position: "relative",
-                    width: "90%",
+                    // width: "90%",
                     bottom: "0px",
                     padding: "32px",
                   }}
@@ -127,7 +127,7 @@ export default function Bottom() {
                   className="kKkgZC"
                   style={{
                     display: "flex",
-                    width: "100%",
+                    // width: "100%",
                     flexDirection: "column",
                     alignItems: "flex-start",
                     height: "unset",

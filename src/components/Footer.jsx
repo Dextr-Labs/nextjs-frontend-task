@@ -14,7 +14,7 @@ export default function Footer() {
         // paddingRight: "40px",
         position: "relative",
         alignItems: "flex-start",
-        marginTop: "170%",
+        // marginTop: "170%",
         marginBottom: "10%",
       }}
     >

@@ -66,13 +66,13 @@ const Header = () => {
               marginTop: "2%",
               border: "0",
               padding: "0",
-              width: "88%",
+              width: "75%",
               marginLeft: "2%",
             }}
             type="text"
             placeholder="Search tokens and NFT collections"
           />
-          <div
+          {/* <div
             style={{
               marginTop: "1.5%",
               backgroundColor: "rgba(255, 255, 255, 0.07)",
@@ -80,7 +80,7 @@ const Header = () => {
             }}
           >
             /
-          </div>
+          </div> */}
         </div>
         <div style={{ paddingTop: "0.75%" }}>
           <div
