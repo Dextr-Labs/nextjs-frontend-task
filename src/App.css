@@ -1,0 +1,23 @@
+style attribute {
+  color: var(--color);
+}
+
+body {
+  color: rgb(255, 255, 255);
+  background-color:#1B1B1B;
+  min-height: 100%;
+}
+
+* {
+  font-family: Basel, sans-serif;
+  color: rgb(155, 155, 155);
+}
+.inter {
+  filter: none;
+  opacity: 1;
+  transition: opacity 250ms ease-in-out 0s;
+  text-align: left;
+  font-size: 36px;
+  font-weight: 485;
+  max-height: 44px;
+}

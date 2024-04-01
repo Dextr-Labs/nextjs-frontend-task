@@ -1,0 +1,25 @@
+a {
+  text-decoration: none;
+  line-height: 22px;
+  padding: 8px 14px;
+  margin: 4px 0;
+}
+.header {
+  padding: 0px 12px;
+  font-family: Basel, sans-serif;
+  width: 100vw;
+  z-index: 1000;
+  transition: background-color 0.3s ease;
+}
+
+.dark {
+  background-color: #333; /* You can adjust the color as needed */
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+button {
+  border: 1px solid #343333;
+}

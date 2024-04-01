@@ -1,56 +1,70 @@
-# Frontend Engineer Take-Home Task: Building Uniswap-like Feature with React and Next.js
+# Getting Started with Create React App
 
-Objective:
-The goal of this take-home task is to assess your skills in building a front-end interface using React and Next.js, particularly focusing on implementing functionality similar to Uniswap, a decentralized exchange for cryptocurrencies. You will be expected to create a simplified version of the swapping feature found in Uniswap.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Instructions:
-You are required to build a web application that allows users to swap between two cryptocurrencies. The application should be built using React and Next.js for server-side rendering. While the functionality will be simplified compared to Uniswap, it should mimic the core swapping feature.
+## Available Scripts
 
-UI Reference:
-Uniswap: https://app.uniswap.org/
-Coin Price API: https://apiguide.coingecko.com/getting-started/introduction
+In the project directory, you can run:
 
-Requirements:
+### `npm start`
 
-1. **Swapping Page:**
-   - Display two input fields for selecting the cryptocurrencies to swap.
-   - Input fields should include dropdowns or auto-suggest functionality for selecting the cryptocurrencies.
-   - Allow users to input the amount they want to swap.
-   - Display the estimated amount of the other cryptocurrency the user will receive after the swap, based on the current exchange rate.
-   - Implement a swap button to execute the transaction.
-   - Show appropriate error/success messages during the swapping process.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-2. **API Integration:**
-   - Utilize cryptocurrency price data from a public API (e.g., CoinGecko, CoinMarketCap) to fetch real-time exchange rates.
-   - Implement the necessary API calls to fetch cryptocurrency data and exchange rates.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-3. **User Experience:**
-   - Ensure a smooth and responsive user interface.
-   - Implement loading indicators during API requests.
-   - Validate user inputs and provide clear error messages if inputs are invalid.
+### `npm test`
 
-4. **Optional Enhancements (Bonus):**
-   - Implement transaction history to show the previous swaps.
-   - Add support for more cryptocurrencies.
-   - Implement a simple user authentication system.
-   - Add visual enhancements such as animations or transitions.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Guidelines:
-- You are free to use any libraries or frameworks that you find appropriate.
-- Design and styling are important but not the primary focus. You can use existing UI libraries like Material-UI or Tailwind CSS for quicker styling.
-- Make sure your code is well-structured, maintainable, and follows best practices.
-- Write clear comments wherever necessary to explain your code.
-- Provide instructions on how to run your application locally.
+### `npm run build`
 
-Submission:
-- Send a GitHub repository link containing your code.
-- Include a README file with clear instructions on how to run the application and any additional information you deem necessary.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Evaluation Criteria:
-- Functionality: Does the application meet the specified requirements?
-- Code Quality: Is the code well-structured, readable, and maintainable?
-- User Experience: Is the application intuitive and user-friendly?
-- API Integration: Is real-time cryptocurrency data accurately fetched and displayed?
-- Bonus Points: Any additional features or enhancements beyond the basic requirements.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Note: This task is designed to simulate real-world development scenarios and showcase your skills as a frontend engineer with React and Next.js experience. Feel free to reach out if you have any questions or need further clarification. Good luck!
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

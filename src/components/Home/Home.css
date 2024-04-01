@@ -1,0 +1,329 @@
+.box {
+  position: absolute;
+  border-radius: 16px;
+  width: 463px;
+  height: 120px;
+  margin-left: 2%;
+  background-color: rgb(27, 27, 27);
+  color: white;
+  /* display: flex; */
+}
+.button {
+  position: absolute;
+  background-color: rgb(53, 52, 52);
+  top: 36%;
+  width: 32px;
+  height: 32px;
+  left: 47%;
+  padding-left: 2px;
+}
+.main {
+  width: 480px;
+  border-radius: 16px;
+}
+.cont {
+  margin: 3%;
+  width: 55%;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.inp1 {
+  background-color: rgb(27, 27, 27);
+  border-radius: 16px;
+  color: rgb(155, 155, 155);
+  font-size: 14px;
+  font-weight: 500;
+  width: 85%;
+  outline: none;
+  font-size: 36px;
+  font-weight: 485;
+  max-height: 44px;
+  border: 0;
+  line-height: 20px;
+  /* padding: 16px;
+  padding-top: 0; */
+  position: relative;
+}
+.fpsbvj {
+  position: relative;
+  display: flex;
+}
+.selft {
+  height: 24px;
+  width: 24px;
+  margin-right: 2px;
+}
+.fpsbvj {
+  position: relative;
+  display: flex;
+}
+.kUUFxN {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.btn {
+  -webkit-box-align: center;
+  align-items: center;
+  background-color: rgb(19, 19, 19);
+  opacity: 1;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  height: 36px;
+  border-radius: 18px;
+  outline: none;
+  user-select: none;
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  font-size: 24px;
+  font-weight: 485;
+  width: initial;
+  padding-left: 10%;
+  gap: 8px;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  box-shadow: rgba(34, 34, 34, 0.04) 0px 0px 10px 0px;
+  visibility: visible;
+  animation: auto ease 0s 1 normal none running none;
+}
+.rightcoin {
+  width: 100%;
+  display: flex;
+  padding: 0px;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+}
+.ebEXhd {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  width: 100%;
+}
+.haLsDq {
+  width: fit-content;
+}
+.lhIqct {
+  margin: 0px 0.25rem;
+  font-size: 20px;
+  font-weight: 535;
+  color: rgb(255, 255, 255);
+}
+.img {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+}
+.inp {
+  width: 70%;
+}
+cont > span {
+  font-weight: 485;
+  color: rgb(155, 155, 155);
+  font-size: 14px;
+}
+.hgzrpu {
+  display: inline-block;
+  height: inherit;
+}
+.swap {
+  color: rgb(42, 189, 255);
+  font-feature-settings: "ss07";
+  font-family: Basel;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 44px;
+  white-space: preserve-breaks pretty;
+}
+.price {
+  display: flex;
+  justify-content: flex-start;
+  flex-flow: row;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  margin-left: 8px;
+  /* justify-content: space-between; */
+}
+
+.hDkUyf {
+  -webkit-box-pack: end;
+  justify-content: flex-end;
+  min-height: 24px;
+  padding: 4px 0px 0px;
+}
+
+.ZDSOP {
+  display: flex;
+  flex-flow: row;
+  -webkit-box-align: center;
+  align-items: center;
+  color: rgb(155, 155, 155);
+  font-size: 0.75rem;
+  line-height: 1rem;
+  margin-left: 8px;
+}
+.bIFEzi {
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+}
+.cPCYrp {
+  width: 100%;
+  display: flex;
+  padding: 0px;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+}
+.dKubqp {
+  box-sizing: border-box;
+  margin: 0px;
+  min-width: 0px;
+}
+.fSifYV {
+  filter: none;
+  opacity: 1;
+  transition: opacity 250ms ease-in-out 0s;
+}
+.kdYshN {
+  width: 100%;
+  display: flex;
+  padding: 0px;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.css-142zc9n {
+  box-sizing: border-box;
+  margin: 0px;
+  min-width: 0px;
+  font-weight: 485;
+  font-size: 14px;
+}
+.jgbRhf {
+  color: rgb(155, 155, 155);
+  letter-spacing: -0.01em;
+}
+
+.jvoGun {
+  filter: none;
+  opacity: 1;
+  transition: opacity 250ms ease-in-out 0s;
+  text-align: left;
+  font-size: 36px;
+  font-weight: 485;
+  outline: none;
+  max-height: 44px;
+}
+.cUiuRI {
+  color: rgb(255, 255, 255);
+  pointer-events: auto;
+  width: 0px;
+  position: relative;
+  font-weight: 485;
+  outline: none;
+  border: none;
+  flex: 1 1 auto;
+  background-color: transparent;
+  font-size: 28px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 0px;
+  appearance: textfield;
+  margin-left: 10px;
+}
+.bDfpJl {
+  -webkit-box-align: center;
+  margin-right: 8px;
+  align-items: center;
+  background-color: rgb(252, 114, 255);
+  opacity: 1;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  height: 36px;
+  border-radius: 18px;
+  width: 100%;
+  outline: none;
+  user-select: none;
+  border: 1px solid rgb(252, 114, 255);
+  font-size: 24px;
+  font-weight: 485;
+  width: initial;
+  padding: 6px 6px 6px 8px;
+  gap: 8px;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  /* margin-left: 12px; */
+  box-shadow: rgba(34, 34, 34, 0.04) 0px 0px 10px 0px;
+  visibility: visible;
+  animation: auto ease 0s 1 normal none running none;
+}
+.bvqCoe {
+  background-color: rgb(19, 19, 19);
+  color: rgb(155, 155, 155);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  font-size: 16px;
+  font-weight: 535;
+}
+.lmdAXV {
+  padding: 16px;
+  width: 100%;
+  line-height: 24px;
+  font-weight: 535;
+  text-align: center;
+  border-radius: 16px;
+  outline: none;
+  border: 1px solid transparent;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  -webkit-box-align: center;
+  align-items: center;
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+  will-change: transform;
+  transition: transform 450ms ease 0s;
+  transform: perspective(1px) translateZ(0px);
+}
+.bbWEFp {
+  box-sizing: border-box;
+  margin: 0px;
+  min-width: 0px;
+  appearance: none;
+  display: inline-block;
+  text-align: center;
+  line-height: inherit;
+  text-decoration: none;
+  font-size: inherit;
+  padding: 8px 16px;
+  color: white;
+  border: 0px;
+  border-radius: 4px;
+}
+
+.cVVlIm {
+  display: flex;
+  flex-flow: row;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+}
