@@ -4,9 +4,9 @@ Objective:
 The goal of this take-home task is to assess your skills in building a front-end interface using React and Next.js, particularly focusing on implementing functionality similar to Uniswap, a decentralized exchange for cryptocurrencies. You will be expected to create a simplified version of the swapping feature found in Uniswap.
 
 Instructions:
-You are required to build a web application that allows users to swap between two cryptocurrencies. The application should be built using React and Next.js for server-side rendering. While the functionality will be simplified compared to Uniswap, it should mimic the core swapping feature.
+You are required to build a web application that allows users to swap between two cryptocurrencies. The application should be built using React and Next.js for server-side rendering. While the functionality will be simplified compared to Uniswap, it should mimic the core swapping feature. Make sure your output looks exactly like the UI Design shared below.
 
-UI Reference:
+UI Design:
 Uniswap: https://app.uniswap.org/
 Coin Price API: https://apiguide.coingecko.com/getting-started/introduction
 
